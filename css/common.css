@@ -1,0 +1,18 @@
+header,section{overflow:hidden;}
+
+*{
+font-family:serif;
+margin: 0px auto;}
+
+.p0{padding:0px}
+
+header,footer,section:not(.section7){text-align:center}
+
+li{list-style:none;}
+
+
+
+
+
+
+
